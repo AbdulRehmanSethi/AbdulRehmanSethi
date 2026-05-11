@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Abdul Rehman Sethi 👋
 
-<!--
-**AbdulRehmanSethi/AbdulRehmanSethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack & Mobile Developer specializing in **React Native**, **TypeScript**, and **AI-integrated apps**.
+I leverage modern AI tools to ship faster, write cleaner code, and build smarter products.
+Based in Pakistan 🇵🇰 | Open to remote opportunities worldwide.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Mobile:** React Native, Expo, TypeScript
+- **Frontend:** React.js, JavaScript
+- **Backend:** Node.js
+- **Tools:** Git, EAS Build, Android Studio, GitHub Copilot, Claude AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Personal Assistant](https://github.com/AbdulRehmanSethi/Personal-Assistant) | AI-powered mobile assistant app | TypeScript, Expo, React Native |
+| [VPN App](https://github.com/AbdulRehmanSethi/VPN-Backend) | Cross-platform VPN app with custom native modules for Android & iOS | TypeScript, React Native, Expo, Native Modules |
+
+## 📫 Let's Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=netlify&logoColor=white)](https://abdulrehmansethi.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/abdul-rehman-sethi-534662244)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:abdulrehmansethi3@gmail.com)
+
+![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulRehmanSethi&show_icons=true&theme=tokyonight)
