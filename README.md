@@ -1,8 +1,7 @@
 # Hi, I'm Abdul Rehman Sethi 👋
 
-Full-Stack & Mobile Developer specializing in **React Native**, **TypeScript**, and **AI-integrated apps**.
-I leverage modern AI tools to ship faster, write cleaner code, and build smarter products.
-Based in Pakistan 🇵🇰 | Open to remote opportunities worldwide.
+Mobile-first software engineer with **3+ years of experience** designing and shipping production-grade Android and iOS applications using React Native, JavaScript, and TypeScript. Proven ability to integrate REST APIs, WebSockets, real-time features, AI-powered functionalities, Bluetooth (BLE) services, payment solutions (Square SDK), and deep linking (Branch.io) into high-performance cross-platform mobile experiences. Familiar with Node.js, MongoDB, Firebase, and Expo, with hands-on experience supporting backend development and API integration. Experienced in Agile/Scrum workflows, code reviews, and CI/CD pipelines. A collaborative team player driven by writing clean, testable, and maintainable code.
+
 
 ## 🛠 Tech Stack
 - **Mobile:** React Native, Expo, TypeScript
