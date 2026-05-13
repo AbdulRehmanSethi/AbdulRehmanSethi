@@ -3,6 +3,7 @@ Mobile-first software engineer with **4 years of experience** designing and ship
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://abdulrehmansethi.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdul-rehman-sethi-534662244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrehmansethi3@gmail.com) 
 
 # 💻 Tech Stack:
@@ -14,11 +15,6 @@ Mobile-first software engineer with **4 years of experience** designing and ship
 |---------|-------------|-------|
 | [Personal Assistant](https://github.com/AbdulRehmanSethi/Personal-Assistant) | AI-powered mobile assistant app | TypeScript, Expo, React Native |
 | [VPN App](https://github.com/AbdulRehmanSethi/VPN-Backend) | Cross-platform VPN app with custom native modules for Android & iOS | TypeScript, React Native, Expo, Native Modules |
-
-## 📫 Let's Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://abdulrehmansethi.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/abdul-rehman-sethi-534662244)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:abdulrehmansethi3@gmail.com)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
