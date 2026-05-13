@@ -16,11 +16,9 @@ Mobile-first software engineer with **3+ years of experience** designing and shi
 | [VPN App](https://github.com/AbdulRehmanSethi/VPN-Backend) | Cross-platform VPN app with custom native modules for Android & iOS | TypeScript, React Native, Expo, Native Modules |
 
 ## 📫 Let's Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=netlify&logoColor=white)](https://abdulrehmansethi.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulrehmansethi.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/abdul-rehman-sethi-534662244)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:abdulrehmansethi3@gmail.com)
-
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulRehmanSethi&show_icons=true&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
